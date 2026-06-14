@@ -22,3 +22,9 @@ This tool requires Python 3 and standard dependencies. First run following comma
 ```bash
 apt-get update && apt-get install git python -y
 pip install requests phonenumbers opencage legacy-cgi
+## ⚡ Quick Termux Setup
+
+```bash
+git clone [https://github.com/HACKER-COM-99/phone-infoga.git](https://github.com/HACKER-COM-99/phone-infoga.git)
+cd phone-infoga
+python mj-tool.py
