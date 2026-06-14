@@ -1,4 +1,4 @@
-# 📱 MJ PHONE INFO TOOL V3.5 PREMIUM
+-# 📱 MJ PHONE INFO TOOL V3.5 PREMIUM
 
 An advanced OSINT and Information Gathering tool designed for Termux and Linux environments to audit mobile number data and digital footprints.
 
@@ -28,3 +28,7 @@ pip install requests phonenumbers opencage legacy-cgi
 git clone [https://github.com/HACKER-COM-99/phone-infoga.git](https://github.com/HACKER-COM-99/phone-infoga.git)
 cd phone-infoga
 python mj-tool.py
+
+
+# agar kisi ko bhi premium key 🔑 chahiye hoga to comment💬 kar dena 😉
+# please🙏 saporting me mera YouTube▶️ channel hai subscribe kar dena :-https://www.youtube.com/@MK6ATOZ
