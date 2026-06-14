@@ -1,4 +1,4 @@
--# 📱 MJ PHONE INFO TOOL V3.5 PREMIUM
+# 📱 MJ PHONE INFO TOOL V3.5 PREMIUM
 
 An advanced OSINT and Information Gathering tool designed for Termux and Linux environments to audit mobile number data and digital footprints.
 
