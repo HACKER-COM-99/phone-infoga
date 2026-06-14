@@ -25,7 +25,8 @@ pip install requests phonenumbers opencage legacy-cgi
 ## ⚡ Quick Termux Setup
 
 ```bash
-git clone [https://github.com/HACKER-COM-99/phone-infoga.git](https://github.com/HACKER-COM-99/phone-infoga.git)
+git clone https://github.com/HACKER-COM-99/phone-infoga.git
+
 cd phone-infoga
 python mj-tool.py
 
