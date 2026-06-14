@@ -20,4 +20,5 @@ An advanced OSINT and Information Gathering tool designed for Termux and Linux e
 This tool requires Python 3 and standard dependencies. First run following command on your terminal:
 
 ```bash
+apt-get update && apt-get install git python -y
 pip install requests phonenumbers opencage legacy-cgi
